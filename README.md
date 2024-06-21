@@ -4,16 +4,19 @@
 
 Este projeto é uma API RESTful construída com FastAPI e SQLite. Ele fornece endpoints para gerenciar atletas, incluindo criação, leitura, atualização e exclusão de registros de atletas.
 
-## Funcionalidades
+## Tecnologias Utilizadas
 
 - FastAPI para construção da API
 - SQLite como banco de dados
 - Alembic para migrações de banco de dados
 - Documentação interativa automática da API com Swagger UI
 
-## Pré-requisitos
+## Requisitos
 
 - Python 3.8+
+- pip (gerenciador de pacotes do Python)
+- FastAPI
+- SQLite
 - Virtualenv (opcional, mas recomendado)
 
 ## Configuração
@@ -21,8 +24,8 @@ Este projeto é uma API RESTful construída com FastAPI e SQLite. Ele fornece en
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/Periclesm19/fastAPI__api-olimpiadas
+cd fastAPI__api-alimpiadas
 ```
 
 ## 2. Crie e Ative um Ambiente Virtual
