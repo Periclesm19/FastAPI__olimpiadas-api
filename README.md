@@ -24,7 +24,7 @@ Este projeto é uma API RESTful construída com FastAPI e SQLite. Ele fornece en
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/Periclesm19/fastAPI__api-olimpiadas
+git clone https://github.com/Periclesm19/fastAPI__api-olimpiadas.git
 cd fastAPI__api-alimpiadas
 ```
 
