@@ -1,4 +1,4 @@
-# Projeto FastAPI com SQLite
+# AtletasAPI - Projeto FastAPI com SQLite
 
 ## Visão Geral
 
@@ -24,8 +24,8 @@ Este projeto é uma API RESTful construída com FastAPI e SQLite. Ele fornece en
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/Periclesm19/fastAPI__api-olimpiadas.git
-cd fastAPI__api-alimpiadas
+git clone https://github.com/Periclesm19/fastAPI__api-atletas.git
+cd fastAPI__api-atletas
 ```
 
 ## 2. Crie e Ative um Ambiente Virtual
