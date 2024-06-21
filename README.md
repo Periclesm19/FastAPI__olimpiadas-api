@@ -15,8 +15,6 @@ Este projeto é uma API RESTful construída com FastAPI e SQLite. Ele fornece en
 
 - Python 3.8+
 - pip (gerenciador de pacotes do Python)
-- FastAPI
-- SQLite
 - Virtualenv (opcional, mas recomendado)
 
 ## Configuração
