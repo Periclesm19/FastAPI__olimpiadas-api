@@ -85,7 +85,7 @@ uvicorn app.main:app --reload
 │   │   └── atleta_schema.py
 │   ├── database.py
 │   └── main.py
-├── .env
+├── env
 ├── alembic.ini
 ├── requirements.txt
 └── README.md
