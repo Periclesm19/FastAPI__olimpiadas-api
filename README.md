@@ -108,4 +108,4 @@ Abra seu navegador e acesse http://localhost:8000/docs para ver a documentação
 
 ## Autor
 
-- Pericles Matos
+Desenvolvido por [Pericles Matos](https://www.linkedin.com/in/periclesm19/)
